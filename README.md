@@ -1,16 +1,35 @@
-## Hi there 👋
+# Halo, saya Aulia Dafa 👋
 
-<!--
-**auliadafa994-ctrl/auliadafa994-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang **Full-Stack Web Developer** yang sedang terus belajar dan mengembangkan kemampuan dalam membangun aplikasi web.
 
-Here are some ideas to get you started:
+Saya tertarik pada pengembangan frontend, backend, serta pembuatan aplikasi yang fungsional, rapi, dan mudah digunakan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Teknologi yang saya pelajari
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Node.js
+- Express
+- Git & GitHub
+
+## 🛠️ Project yang sedang saya kembangkan
+
+- [WebOrderHunter](https://github.com/auliadafa994-ctrl/WebOrderHunter) — aplikasi web untuk melacak, mengelola, dan memantau pesanan.
+
+## 📌 Fokus belajar saat ini
+
+- Membangun aplikasi web full-stack
+- Membuat REST API dengan Node.js dan Express
+- Mengelola project dengan Git dan GitHub
+- Meningkatkan keterampilan frontend dan backend
+
+## 📫 Hubungi saya
+
+- GitHub: [@auliadafa994-ctrl](https://github.com/auliadafa994-ctrl)
+- Email: emailkamu@example.com
+
+## ⭐ Terima kasih telah mengunjungi profil saya
+
+Jangan lupa cek project **WebOrderHunter** dan beri **Star** jika kamu menyukainya!
