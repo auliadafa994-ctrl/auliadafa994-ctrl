@@ -1,4 +1,4 @@
-# Halo, saya Aulia Dafa 👋
+# Halo, saya Muhammad Rafli Daffa Aulia 👋
 
 Saya seorang **Full-Stack Web Developer** yang sedang terus belajar dan mengembangkan kemampuan dalam membangun aplikasi web.
 
@@ -28,7 +28,7 @@ Saya tertarik pada pengembangan frontend, backend, serta pembuatan aplikasi yang
 ## 📫 Hubungi saya
 
 - GitHub: [@auliadafa994-ctrl](https://github.com/auliadafa994-ctrl)
-- Email: emailkamu@example.com
+- Email: auliadafa994@gmail.com
 
 ## ⭐ Terima kasih telah mengunjungi profil saya
 
